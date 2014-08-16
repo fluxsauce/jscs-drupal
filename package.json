@@ -1,0 +1,20 @@
+{  
+  "name":"jscs-drupal",
+  "version":"0.1.0",
+  "description":"JavaScript Code Style rules for Drupal",
+  "homepage":"https://github.com/fluxsauce/jscs-drupal",
+  "license":"MIT",
+  "repository":{  
+    "type":"git",
+    "url":"https://github.com/fluxsauce/jscs-drupal"
+  },
+  "bugs":{  
+    "url":"https://github.com/fluxsauce/jscs-drupal/issues"
+  },
+  "contributors":[  
+    "Jon Peck <jpeck@fluxsauce.com>"
+  ],
+  "peerDependencies":{  
+    "jscs":">=1.3.0 <2.0"
+  }
+}
