@@ -9,5 +9,12 @@
   "requireSpaceAfterBinaryOperators": true,
   "disallowSpaceAfterPrefixUnaryOperators": true,
   "disallowSpacesInsideObjectBrackets": true,
-  "disallowSpacesInsideArrayBrackets": true
+  "disallowSpacesInsideArrayBrackets": true,
+  "requireSpacesInFunctionExpression" : {
+    "beforeOpeningRoundBrace": true
+  },
+  "disallowSpacesInFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "disallowAnonymousFunctions": true
 }
